@@ -1,0 +1,5 @@
+IP: 84.252.141.113;
+name_taski: https://uzum1.ddns.net/;
+name_kittygram: https://kitgram.ddns.net/;
+login: yc-user;
+password: JI0j4rka18;
